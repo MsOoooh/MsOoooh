@@ -28,6 +28,7 @@ but I enjoy exploring new things and turning simple ideas into projects I can be
 * Canva / Figma (basic design)
 * Microsoft Office (Word, Excel, PowerPoint)
 
+## Projects
 ## 1. Re-Green Site — Environmental Monitoring & Tree Planting Management System
 
 **Overview:**
