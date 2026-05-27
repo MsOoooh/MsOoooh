@@ -1,7 +1,7 @@
 ## ✧ Hello, I'm Carlota May D. Oh! ✧
 🌸 she/her • BSIT Student • Aspiring Developer
 
-❀About Me 
+## ❀About Me 
 
 I am a 20-year-old Bachelor of Science in Information Technology (BSIT)student currently studying at 
 Davao del Norte State College. I may still be learning, but I genuinely enjoy building simple and 
@@ -11,24 +11,22 @@ Still trying to survive coding, deadlines, and college life one step at a time. 
 but I enjoy exploring new things and turning simple ideas into projects I can be proud of.
 
 ## ❀Technical Skills
-•Basic Programming (HTML, CSS, JavaScript)
-•Python / Java (basic–intermediate)
-•Basic Networking
-•UI/UX Design basics
+* **Type:**Basic Programming (HTML, CSS, JavaScript)
+* **Type:**Python / Java (basic–intermediate)
+* **Type:**Basic Networking
+* **Type:**UI/UX Design basics
 
 ## ❀Soft Skills
-•Creativity
-•Adaptability
-•Active listening
-•Critical thinking
-•Problem analysis
-•Attention to detail
-•Communication skills
+* **Type:**Creativity
+* **Type:**Active listening
+* **Type:**Critical thinking
+* **Type:**Problem analysis
+* **Type:**Attention to detail
 
 ## ❀Tools
-•VS Code
-•Canva / Figma (basic design)
-•Microsoft Office (Word, Excel, PowerPoint)
+* **Type:**VS Code
+* **Type:**Canva / Figma (basic design)
+* **Type:**Microsoft Office (Word, Excel, PowerPoint)
 
 ## 1. Re-Green Site — Environmental Monitoring & Tree Planting Management System
 
