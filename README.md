@@ -11,22 +11,22 @@ Still trying to survive coding, deadlines, and college life one step at a time. 
 but I enjoy exploring new things and turning simple ideas into projects I can be proud of.
 
 ## ❀Technical Skills
-* **Type:**Basic Programming (HTML, CSS, JavaScript)
-* **Type:**Python / Java (basic–intermediate)
-* **Type:**Basic Networking
-* **Type:**UI/UX Design basics
+* Basic Programming (HTML, CSS, JavaScript)
+* Python / Java (basic–intermediate)
+* Basic Networking
+* UI/UX Design basics
 
 ## ❀Soft Skills
-* **Type:**Creativity
-* **Type:**Active listening
-* **Type:**Critical thinking
-* **Type:**Problem analysis
-* **Type:**Attention to detail
+* Creativity
+* Active listening
+* Critical thinking
+* Problem analysis
+* Attention to detail
 
 ## ❀Tools
-* **Type:**VS Code
-* **Type:**Canva / Figma (basic design)
-* **Type:**Microsoft Office (Word, Excel, PowerPoint)
+* VS Code
+* Canva / Figma (basic design)
+* Microsoft Office (Word, Excel, PowerPoint)
 
 ## 1. Re-Green Site — Environmental Monitoring & Tree Planting Management System
 
