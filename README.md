@@ -1,7 +1,6 @@
 ## ✧ Hello, I'm Carlota May D. Oh! ✧
 🌸 she/her • BSIT Student • Aspiring Developer
 
-<!--
 ❀About Me 
 
 I am a 20-year-old Bachelor of Science in Information Technology (BSIT)student currently studying at 
@@ -10,8 +9,7 @@ creative systems while improving my coding skills little by little every day.
 
 Still trying to survive coding, deadlines, and college life one step at a time. Not a pro developer yet, 
 but I enjoy exploring new things and turning simple ideas into projects I can be proud of.
---> 
-<!--
+
 ## ❀Technical Skills
 •Basic Programming (HTML, CSS, JavaScript)
 •Python / Java (basic–intermediate)
@@ -31,8 +29,7 @@ but I enjoy exploring new things and turning simple ideas into projects I can be
 •VS Code
 •Canva / Figma (basic design)
 •Microsoft Office (Word, Excel, PowerPoint)
--->
-<!--
+
 ## 1. Re-Green Site — Environmental Monitoring & Tree Planting Management System
 
 **Overview:**
@@ -54,8 +51,7 @@ A Web/Mobile Application designed to support environmental conservation programs
 * QR code-based tree identification and monitoring
 * Announcement and awareness campaign management
 * Admin panel for managing volunteers, reports, and activities
--->
-<!--
+
 ## 2. Barangay Complaint System — Community Concern & Incident Reporting Platform
 
 **Overview:**
@@ -77,7 +73,7 @@ A Web-Based Barangay Complaint Management System developed to improve communicat
 * Admin dashboard for complaint management and reporting
 * Incident history and archived records system
 * Analytics and statistics for barangay reports and cases
--->
+
 
 
 
